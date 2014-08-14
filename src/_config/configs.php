@@ -1,6 +1,6 @@
 <?php
 $GLOBALS["amung"]="7hamtjlsy593"; //Users Online
-$GLOBALS["xplorer_name"] = "quiXplore 2.3";
+$GLOBALS["xplorer_name"] = "quiXplorer 2.3";
 $GLOBALS["ownermessage"] = "modified by laurenceHR";
 $GLOBALS["use_uploadify"] = true;
 $GLOBALS["langs"] = array(
